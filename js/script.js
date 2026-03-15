@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Abinash Sharma";
+            document.title = "Portfolio | Kumararaja S ";
             $("#favicon").attr("href", "./assets/images/Tababhi.webp");
         }
         else {
@@ -345,7 +345,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 document.addEventListener("DOMContentLoaded", async () => {
-  const username = "abinasharma001";
+  const username = "Kumararaja Sarma001";
 
   // Updated selectors for new layout
   const profileContainer = document.querySelector("#profile");

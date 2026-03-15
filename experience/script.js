@@ -72,11 +72,11 @@ document.onkeydown = function (e) {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Experience | Portfolio Abinash Sharma";
+            document.title = "Experience | Portfolio Kumararaja S ";
             $("#favicon").attr("href", "../assets/images/favicon.png");
         }
         else {
-            document.title = "Abinash Portfolio";
+            document.title = "Kumararaja S Portfolio";
             $("#favicon").attr("href", "../assets/images/favhand.png");
         }
     });

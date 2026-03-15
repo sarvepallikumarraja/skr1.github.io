@@ -1,4 +1,4 @@
-# 👋 Abinash Sharma
+# 👋 Kumararaja S 
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Online-blue)
@@ -8,12 +8,12 @@
 ![Build](https://img.shields.io/badge/Built%20with-Vite-purple)
 
 🌐 **Live Portfolio**  
-- 👉 https://dev-abinash-sharma.github.io
+- 👉 https://dev-Kumararaja S-.github.io
 - or
-- https://abinash-sharma.pages.dev/
-- 🤖💻 Admin - **Abinash Sharma (@abinasharma001)**
+- https://Kumararaja S-.pages.dev/
+- 🤖💻 Admin - **Kumararaja S  (@Kumararaja Sarma001)**
 
-- GitHub: https://github.com/abinasharma001
+- GitHub: https://github.com/Kumararaja Sarma001
 
 
 
@@ -55,7 +55,7 @@ I enjoy working with modern frontend tools while keeping performance and user ex
 ## 🎬 Portfolio Demo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-abinash-sharma/dev-abinash-sharma.github.io/main/portfoliodemo.gif"
+  <img src="https://raw.githubusercontent.com/dev-Kumararaja S-/dev-Kumararaja S-.github.io/main/portfoliodemo.gif"
        alt="Portfolio Demo"
        width="800" />
 </p>
@@ -77,13 +77,13 @@ This repository contains **only the production build** of my portfolio.
 
 ## 📬 Connect With Me
 
-- GitHub: https://github.com/abinasharma001
+- GitHub: https://github.com/Kumararaja Sarma001
   
-- Portfolio: https://dev-abinash-sharma.github.io
+- Portfolio: https://dev-Kumararaja S-.github.io
 - or
--  https://abinash-sharma.pages.dev/
--  Developed By Abinash Sharma
--  Linkedin- https://www.linkedin.com/in/contactabinashsharma/
--  Instagram- https://www.instagram.com/abinash_sharma___/
+-  https://Kumararaja S-.pages.dev/
+-  Developed By Kumararaja S 
+-  Linkedin- https://www.linkedin.com/in/contactKumararaja S/
+-  Instagram- https://www.instagram.com/Kumararaja S____/
 
 ⭐ If you like my work, feel free to explore the portfolio and connect!

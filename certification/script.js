@@ -20,7 +20,7 @@ $(document).ready(function () {
 /* ==================== TAB VISIBILITY ==================== */
 document.addEventListener('visibilitychange', function () {
   if (document.visibilityState === "visible") {
-    document.title = "Portfolio | Abinash Sharma";
+    document.title = "Portfolio | Kumararaja S ";
     $("#favicon").attr("href", "/assets/images/favicon.png");
   } else {
     document.title = "Come Back To Portfolio";

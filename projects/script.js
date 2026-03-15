@@ -23,7 +23,7 @@ $(document).ready(function () {
 
 document.addEventListener('visibilitychange', function () {
     if (document.visibilityState === "visible") {
-        document.title = "Projects | Portfolio Abinash Sharma";
+        document.title = "Projects | Portfolio Kumararaja S ";
         $("#favicon").attr("href", "/assets/images/favicon.png");
     } else {
         document.title = "Come Back To Portfolio";
