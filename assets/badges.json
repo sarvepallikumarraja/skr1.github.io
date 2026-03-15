@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Google IT Support Professional Certificate",
+    "image": "https://images.credly.com/size/680x680/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob",
+    "url": "https://www.credly.com/badges/d05e5646-a4f0-4e03-a99c-65dc5be668c1/public_url",
+    "issuer": "Google",
+    "issued": "Feb 2026"
+  },
+    {
+        "name": "Getting Started with Artificial Intelligence",
+        "image": "https://images.credly.com/size/220x220/images/73c08e76-eb9c-4c03-92da-3dad49e99e5a/Getting_Started_With_Artificial_Intelligence_Badge.png",
+        "url": "https://www.credly.com/badges/75d381a8-1441-46c1-8d53-6176d74ce607/public_url",
+        "issuer": "IBM",
+        "issued": "July 2025"
+    },
+    {
+        "name": "DevOps Essentials",
+        "image": "https://images.credly.com/size/680x680/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png",
+        "url": "https://www.credly.com/badges/e841b537-731c-427c-8230-2e14b24f315b/public_url",
+        "issuer": "IBM",
+        "issued": "jan 2026"
+    },
+    {
+        "name": "Hardware and Operating System Essentials",
+        "image": "https://images.credly.com/size/680x680/images/74e18558-da29-41a1-9850-fa73231327a0/image.png",
+        "url": "https://www.credly.com/badges/4410eede-21e5-44b1-a303-572d03330a79/public_url",
+        "issuer": "Google",
+        "issued": "Dec 2025"
+    },
+    {
+        "name": "Multicloud Network Associate",
+        "image": "https://images.credly.com/size/680x680/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob",
+        "url": "https://www.credly.com/badges/bc871bf0-86eb-4fd8-acce-b3241e8e7ab4/public_url",
+        "issuer": "Aviatrix",
+        "issued": "Jan 2026"
+    }
+]
