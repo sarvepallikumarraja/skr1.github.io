@@ -153,15 +153,14 @@ $(document).ready(function () {
 });
 
 /* ==================== CHAT WIDGET ==================== */
-var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
-(function () {
-  var s1 = document.createElement("script"),
-      s0 = document.getElementsByTagName("script")[0];
-  s1.async = true;
-  s1.src = "https://embed.tawk.to/69c337b3f9f0211c36fde7c1/default";
-  s1.charset = "UTF-8";
-  s1.setAttribute("crossorigin", "*");
-  s0.parentNode.insertBefore(s1, s0);
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/69c33e59ffb4f81c353b5573/1jkhan3jo';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
 })();
 
 /* ==================== SECURITY ==================== */
