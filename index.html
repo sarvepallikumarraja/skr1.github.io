@@ -1049,23 +1049,27 @@
           </div>
         </div>
 
-        <form id="contact-form">
+        <form id="contact-form"
+              action="https://docs.google.com/forms/d/e/1FAIpQLSe913WOhDBq_jFqJSV03aKyMaw2R1K9WEyNVHuiRHTyptscrw/viewform?usp=publish-editor"
+              method="POST"
+              target="hidden_iframe"
+              onsubmit="submitted=true;">
 
           <div class="form-group">
             <div class="field">
-              <input type="text" name="name" placeholder="Name" required>
+              <input type="text" name="entry.111" name="name" placeholder="Name" required>
               <i class='fas fa-user'></i>
             </div>
             <div class="field">
-              <input type="text" name="email" placeholder="Email" required>
+              <input type="text" name="entry.222" name="email" placeholder="Email" required>
               <i class='fas fa-envelope'></i>
             </div>
             <div class="field">
-              <input type="text" name="phone" placeholder="Phone">
+              <input type="text" name="entry.333" name="phone" placeholder="Phone">
               <i class='fas fa-phone-alt hoverable'></i>
             </div>
             <div class="message">
-              <textarea placeholder="Message" name="message" required></textarea>
+              <textarea name="entry.444" placeholder="Message" name="message" required></textarea>
               <i class="fas fa-comment-dots"></i>
             </div>
           </div>
